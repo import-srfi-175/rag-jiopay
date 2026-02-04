@@ -6,7 +6,7 @@ This RAG chatbot for JioPay customer support automation was completed as a proje
 
 To run this project locally, follow these steps:
 
-1.  **Clone the repository:**
+1.  **Clone the repository**
 
 2.  **Install Git LFS:**
     This project uses Git LFS to handle large files. You'll need to install it on your local machine.
