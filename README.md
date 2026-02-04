@@ -1,14 +1,3 @@
----
-title: JioPay RAG Chatbot
-emoji: 💳
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-sdk_version: 1.31.0
-python_version: 3.9
-app_file: src/web/streamlit_app.py
----
-
 # JioPay RAG Chatbot
 
 This RAG chatbot for JioPay customer support automation was completed as a project for the LLM Production and Deployment course by Vizuara
@@ -18,10 +7,6 @@ This RAG chatbot for JioPay customer support automation was completed as a proje
 To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/yashkambli/yashkambli-rag-jiopay.git
-    cd yashkambli-rag-jiopay
-    ```
 
 2.  **Install Git LFS:**
     This project uses Git LFS to handle large files. You'll need to install it on your local machine.
